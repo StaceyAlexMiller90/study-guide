@@ -121,7 +121,7 @@ const week = {
             You could call your friend with a question & 
             wait for them to pick up the phone
 
-            <strong>asyncronous option.</strong>
+            <strong>asyncronous (better) option.</strong>
             You could send them a whatapp with your question & 
             make a cup of tea whilst they reply
             ! Don't forget to try & catch
